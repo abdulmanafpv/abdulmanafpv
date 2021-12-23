@@ -1,7 +1,10 @@
 ###  👋 Hi I am Abdul Manaf PV
 
+### About:
+My name is Abdul Manaf PV. I am a BSc Physics graduated from University of Calicut. I am very much intrested in Artificial Intelligence. So My Physics degree would provide a great background doing Machine Learning for physical sciences.
+
 ### Skills:
-Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing(NLP), Keras, Tensorflow, Scikit-Learn, Pandas, Matplotlib, Numpy, Scipy, Jupyter Notebook, Pycharm, Mathmatics, Reasoning, Critical Thinking
+Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing(NLP), Keras, Tensorflow, Scikit-Learn, Pandas, Matplotlib, Numpy, Scipy, Jupyter Notebook, Pycharm, Excel, Mathmatics, Reasoning, Critical Thinking
 
 
 <!--
