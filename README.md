@@ -1,5 +1,9 @@
 ###  👋 Hi I am Abdul Manaf PV
 
+### Skills:
+Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing(NLP), Keras, Tensorflow, Scikit-Learn, Pandas, Matplotlib, Numpy, Scipy, Jupyter Notebook, Pycharm, Mathmatics, Reasoning, Critical Thinking
+
+
 <!--
 **abdulmanafpv/abdulmanafpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
