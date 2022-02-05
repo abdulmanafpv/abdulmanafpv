@@ -4,7 +4,7 @@
 My name is Abdul Manaf PV. I am a Data Science Research Intern at Xena Intelligence. I have experience working in Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and MySQL.I am a BSc Physics graduated from University of Calicut. My Physics degree would provide a great background doing Machine Learning for physical sciences. My aim is to become a good Data Scientist
 
 ### Skills:
-Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing(NLP), Keras, Tensorflow, Scikit-Learn, Pandas, Matplotlib, Seaborn , Numpy, Scipy, Flask, Jupyter Notebook, Pycharm, MySQL, Excel, Mathmatics, Reasoning, Critical Thinking
+Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing(NLP), Keras, Tensorflow, Scikit-Learn, Pandas, Matplotlib, Seaborn , Numpy, Scipy, Flask, Heroku, AWS, Jupyter Notebook, Pycharm, MySQL, Excel, Mathmatics, Reasoning, Critical Thinking
 
 
 <!--
