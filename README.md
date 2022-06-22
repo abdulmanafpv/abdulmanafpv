@@ -7,7 +7,31 @@ My name is Abdul Manaf PV. I am a Computer Vision Engineer at A2Z Alphabet Solut
 
 ##  Data Science : 
 Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing(NLP), Keras, OpenCV, Dlib, Tensorflow, CNN, Scikit-Learn, Pandas, Matplotlib, Seaborn , Numpy, Scipy,
- Flask, Heroku, AWS, Jupyter Notebook, Pycharm, MySQL, Excel, Mathmatics, Reasoning, Critical Thinking
+
+##  Machine Learning Algorithms:
+
+Linear Regression, Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Random Forest Regression, KNN, Bagging Regression.
+
+##  Web framework:
+Django, Flask
+
+##  Cloud Platforms:
+ Heroku, AWS
+ 
+ ##  Tools:
+ Jupyter Notebook, Pycharm, MySQL, Excel
+ 
+ ## Version Control:
+ Git & GitHub
+
+##  Operating System:
+Windows, Linux
+
+## General Skills :
+
+Data Visualization, Pattern Recognition, Data Preparation, Database Structures
+and algorithms, Web scraping, Mathmatics, Reasoning, Critical Thinking
+
 
 
 <!--
