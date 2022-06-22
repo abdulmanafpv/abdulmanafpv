@@ -3,7 +3,7 @@
 ### About:
 My name is Abdul Manaf PV. I am a Computer Vision Engineer at A2Z Alphabet Solution Pvt Ltd. I have experience working in Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, MySQL and cloud platforms like heroku and AWS.I am a BSc Physics graduated from University of Calicut. My Physics degree would provide a great background doing Machine Learning for physical sciences. My aim is to become a good Data Scientist
 
-### Skills:
+## Skills:
 
 ##  Data Science : 
 Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing(NLP), Keras, OpenCV, Dlib, Tensorflow, CNN, Scikit-Learn, Pandas, Matplotlib, Seaborn , Numpy, Scipy,
