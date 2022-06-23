@@ -12,7 +12,7 @@ Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Proce
 
 Linear Regression, Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Random Forest Regression, KNN, Bagging Regression.
 
-###  Web framework:
+###  Web Framework:
 Django, Flask
 
 ###  Cloud Platforms:
