@@ -29,7 +29,7 @@ Windows, Linux
 
 ### General Skills :
 
-Data Visualization, Pattern Recognition, Data Preparation, Database Structures
+Data Visualization, Pattern Recognition, image processing,Data Preparation, Database Structures
 and algorithms, Web scraping, Mathmatics, Reasoning, Critical Thinking
 
 
