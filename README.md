@@ -15,7 +15,7 @@ Linear Regression, Logistic Regression, Decision Tree Classifier, Random Forest 
 ###  Web Framework:
 Django, Flask
 
-###  Computer Vision FrameWorks
+###  Computer Vision Frameworks
 
 OpenCV
 
