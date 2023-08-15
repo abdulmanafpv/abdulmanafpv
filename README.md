@@ -1,7 +1,7 @@
 ###  👋 Hi I am Abdul Manaf PV
 
 ## About:
-My name is Abdul Manaf PV. I am a AI Engineer at Msigma Gokulam Pvt Ltd. I have experience working in Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, MySQL and cloud platforms like heroku and AWS.I am a BSc Physics graduated from University of Calicut. My Physics degree would provide a great background doing Machine Learning for physical sciences. My aim is to become a good Data Scientist
+My name is Abdul Manaf PV. I am a AI Engineer at R&D Department of Msigma Gokulam Pvt Ltd. I have experience working in Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, MySQL and cloud platforms like heroku and AWS.I am a BSc Physics graduated from University of Calicut. My Physics degree would provide a great background doing Machine Learning for physical sciences. My aim is to become a good Data Scientist
 
 ## Skills:
 
@@ -22,6 +22,8 @@ OpenCV
 ###  Cloud Platforms:
  Heroku, AWS
  
+###  Embedded:
+Raspberry pi, Jetson Device
  ###  Tools:
  Jupyter Notebook, Pycharm, MySQL, Excel
  
